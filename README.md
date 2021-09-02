@@ -13,5 +13,4 @@ https://www.linkedin.com/in/andrea-engdahl-yunge
 https://www.linkedin.com/in/marceloherrera
 
 La presentación "Recursos Python para computer vision" están en [presentación](https://github.com/MeetupAnalytics-Python/sesion-01-09-2021/blob/main/computer_vision_and_python_resources.pdf)
-y los ejemplos presentados están en el directorio **"computer-vision-examples"**
-
+y los ejemplos están en el directorio **"computer-vision-examples"** La demo del "Virtual MIDI Keyboard" quedara disponibles proximamente en esta misma plataforma
