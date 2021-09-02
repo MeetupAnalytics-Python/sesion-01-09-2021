@@ -9,7 +9,7 @@ https://www.linkedin.com/in/andrea-engdahl-yunge
 
 ### César Hormazábal: "OpenAI- Playground"
 
-### Marcelo Herrera Tejada: "Recursos de Python para computer vision"
+### Marcelo Herrera Tejada: "Recursos Python para computer vision"
 https://www.linkedin.com/in/marceloherrera
 
 La presentación del segundo bloque está en [presentación](https://github.com/MeetupAnalytics-Python/sesion-01-09-2021/blob/main/computer_vision_and_python_resources.pdf)
