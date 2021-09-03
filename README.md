@@ -7,6 +7,8 @@ La información oficial del evento se encuentra en el siguiente [link](https://w
 ### Andrea Engdahl Yunge: "Implementación de un buscador de documentos" con Python y Elasticsearch
 https://www.linkedin.com/in/andrea-engdahl-yunge
 
+La presentación "Implementación de un buscador de documentos" y el jupyter utilizado se encuentran disponibles en el siguiente [repositorio](https://github.com/aengdahly/meetup_pythonelastic)
+
 ### César Hormazábal: (*Novedades en intermedio*): "OpenAI- Playground"
 
 ### Marcelo Herrera Tejada: "Recursos Python para computer vision"
